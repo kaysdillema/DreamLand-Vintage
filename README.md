@@ -112,9 +112,12 @@ GitHub, 2025. GitHub. [online] Available at: <https://github.com/> [Accessed 10 
 
   <img width="400" height="869" alt="phone p1 1" src="https://github.com/user-attachments/assets/b4702d67-5320-41cb-9052-f1088f9dda02" />
 
-<img width="400" height="869" alt="phone p1 2" src="https://github.com/user-attachments/assets/9b851245-9a30-46a4-9df5-faf4434ddfc6" />
+  <h1>Tablets</h1>
+  <img width="512" height="683" alt="tablet o1" src="https://github.com/user-attachments/assets/402f9314-e5ed-4c50-b3c1-c93f9d11debc" />
 
-<img width="400" height="869" alt="phone p2" src="https://github.com/user-attachments/assets/e17bbfff-4ddd-4546-ae9f-bdc9b4859913" />
+  <img width="512" height="683" alt="tablet o2" src="https://github.com/user-attachments/assets/06f8534e-b47f-4d5a-9fe7-17bf07d9b3d6" />
+
+
 
 ‌
 ‌

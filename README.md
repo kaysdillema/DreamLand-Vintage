@@ -117,6 +117,11 @@ GitHub, 2025. GitHub. [online] Available at: <https://github.com/> [Accessed 10 
 
   <img width="512" height="683" alt="tablet o2" src="https://github.com/user-attachments/assets/06f8534e-b47f-4d5a-9fe7-17bf07d9b3d6" />
 
+<h1>Desktop</h1>
+<img width="1912" height="956" alt="pc p2" src="https://github.com/user-attachments/assets/7a89a01a-3a7b-4f63-a24c-e26f5b332189" />
+
+<img width="1912" height="956" alt="pc p1" src="https://github.com/user-attachments/assets/d819b9ae-427d-4f73-ab4a-3e1bf5a6cb96" />
+
 
 
 ‌

@@ -1,6 +1,6 @@
 # DreamLand Vintage
 
-Content References (Images)
+<h3>Content References (Images)</h3>
 
 Unsplash (2015). Photo by Milada Vigerova on Unsplash. [online] unsplash.com. Available at: <https://unsplash.com/photos/white-v-neck-shirt-on-brown-clothes-hanger-p8Drpg_duLw> [Accessed 28 Apr. 2026]
 
@@ -50,7 +50,7 @@ NordWood Themes (2017). person holding pair of brown leather shoes. [online] Uns
 
 king, logo (2026). Visa logo png, Visa icon transparent png. [online] Vecteezy. Available at: <https://www.vecteezy.com/png/20975576-visa-logo-png-visa-icon-transparent-png> [Accessed 28 Apr. 2026]
 
-Research References
+<h3>Research References</h3>
 
 Shopify, 2024. 8 Effective Website Goals for Ecommerce Businesses [online] Available at:
 <https://www.shopify.com/za/blog/website-goals> [Accessed 10 April 2026]
@@ -89,9 +89,9 @@ Haim, I. 2025. How Much Does It Cost to Build a Website in [year]? A Comprehensi
 [Accessed 10 April 2026]
 GitHub, 2025. GitHub. [online] Available at: <https://github.com/> [Accessed 10 April 2026]
 
-ChangeLog
+<h1>ChangeLog</h1>
 
-Phase 1
+<strong>Phase 1</strong>
 - 05/29 Ive ensured the website files look neater by moving images into a folder and html into a specific folder removing the clutter
 - 05/27 Ive removed pages not indicated on the proposal made in part 1
 - 05/27 Ive added a css folder to input my style.css file
@@ -114,6 +114,7 @@ Phase 1
 
 <img width="400" height="869" alt="phone p1 2" src="https://github.com/user-attachments/assets/9b851245-9a30-46a4-9df5-faf4434ddfc6" />
 
+<img width="400" height="869" alt="phone p2" src="https://github.com/user-attachments/assets/e17bbfff-4ddd-4546-ae9f-bdc9b4859913" />
 
 ‌
 ‌

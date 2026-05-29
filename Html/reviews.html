@@ -1,0 +1,179 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>DreamLand Vintage | Reviews</title> 
+  <link rel="stylesheet" href="../Css/style.css"> 
+</head> 
+<body> 
+
+  <header> 
+    <!--Main Navigation Page--> 
+    <nav class="mainnav"> 
+      <header class="mainheader"> 
+        <img class="Logo" src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\306083037_415975557301657_4557461662347383581_n.jpg"> 
+        
+        <!--Grouped Links--> 
+        <div class="PageNavigations"> 
+          <a class="Home" href="Index.html">Home</a> 
+          <a class="Contact" href="contact.html">Contact Us</a> 
+          <a class="Reviews" href="reviews.html">Reviews</a> 
+        </div> 
+        
+        <!--Cart Trigger--> 
+        <a class="Cart" href="#cart-popup"> 
+          <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\shopping-cart-set-four (1).png"> 
+        </a> 
+        <!--Code allows the cart image to be clicked and active the pop up cart page-->
+      </header> 
+    </nav> 
+  </header> 
+
+  <!--Page Navigation--> 
+  <nav class="secondarynav"> 
+    <header class="subheader2"> 
+      <!--Item Navigations--> 
+      <div class="ItemNavigations"> 
+        <button class="stars">5 Stars</button> 
+        <button class="stars">4 Stars</button> 
+        <button class="stars">3 Stars</button> 
+        <button class="stars">2 Stars</button> 
+        <button class="stars">1 Star</button> 
+        <!--buttons that will soon be made to function as filters-->
+      </div> 
+    </header> 
+  </nav> 
+
+  <!--Reviews--> 
+  <div class="ReviewList"> 
+    <!--Review 1--> 
+    <div class="ReviewCard"> 
+      <h3>Janine</h3> 
+      <p><strong><em>4 Stars</em></strong></p> 
+      <p><em>Found Some really good pieces, happy to shop here again!</em></p> 
+    </div> 
+    <!--Review 2--> 
+    <div class="ReviewCard"> 
+      <h3>Micheal</h3> 
+      <p><strong><em>5 Stars</em></strong></p> 
+      <p><em>Orders are swift and thorough, amazing!</em></p> 
+    </div> 
+    <!--Review 3--> 
+    <div class="ReviewCard"> 
+      <h3>J.J</h3> 
+      <p><strong><em>5 Stars</em></strong></p> 
+      <p><em>Items are always top notch, if i could rate it 10 stars i would lol.</em></p> 
+    </div> 
+    <!--Review 4--> 
+    <div class="ReviewCard"> 
+      <h3>Xholani</h3> 
+      <p><strong><em>4 Stars</em></strong></p> 
+      <p><em>100% will be ordering from here again.</em></p> 
+    </div> 
+    <!--Review 5--> 
+    <div class="ReviewCard"> 
+      <h3>Marie</h3> 
+      <p><strong><em>5 Stars</em></strong></p> 
+      <p><em>Very affordable plus high quality</em></p> 
+    </div> 
+    <!--Review 6--> 
+    <div class="ReviewCard"> 
+      <h3>Alana</h3> 
+      <p><strong><em>5 Stars</em></strong></p> 
+      <p><em>Orders are swift and thorough, amazing!</em></p> 
+    </div> 
+  </div> 
+
+  <!--Cart Side Popup-->
+  <div id="cart-popup" class="cartoverlay">
+    <div class="cartpanel">
+  <!--Cart header-->
+      <header class="cartheader">
+        <nav class="cartnav">
+          <a href="#" class="closecart">&times;</a>
+          <h1>YOU'RE ONE STEP CLOSER!</h1>
+        </nav>
+      </header>
+<!--Content within Cart-->
+      <div class="CartContentcontainer">
+        
+        <div class="CartContent">
+          <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\pesce-huang-nC4-PXzKZcI-unsplash.jpg" alt="Jeans">
+          <div class="itemdetails">
+            <h3>Bootcut Denim Jeans</h3>
+            <p><em>Womens</em> | <em>Size: 30 W; 32L</em></p>
+            <span class="price">R2000</span>
+          </div>
+          <button class="remove">&times;</button>
+          <!--created button to remove item from cart, will be functional with js-->
+        </div>
+
+        <div class="CartContent">
+          <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\rodrigo-rodrigues-wolf-r-t-WSvhSYUUW1s-unsplash.jpg" alt="Shorts">
+          <div class="itemdetails">
+            <h3>Diesel Denim Shorts</h3>
+            <p><em>Mens</em> | <em>Size: 30 W; 30 L</em></p>
+            <span class="price">R800</span>
+          </div>
+          <button class="remove">&times;</button>
+        </div>
+
+        <div class="CartContent">
+          <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\jakob-owens-WzncgWs3RJ4-unsplash.jpg" alt="Sandals">
+          <div class="itemdetails">
+            <h3>Beige Leather Sandals</h3>
+            <p><em>Mens</em> | <em>Size: UK 10</em></p>
+            <span class="price">R1500</span>
+          </div>
+          <button class="remove">&times;</button>
+        </div>
+
+      </div>
+<!--Cart empty and checkout options with total price-->
+      <div class="CartBottom">
+        <div class="totalrow">
+          <h3>Cart Total:</h3>
+          <h3>R4300</h3>
+        </div>
+        <div class="cartactions">
+          <button class="secondary">Empty Cart</button>
+          <button class="primary">Checkout</button>
+        </div>
+      </div>
+      <!--The checking out button and empty cart-->
+
+    </div>
+  </div>
+
+   
+  <footer class="mainfooter2"> 
+    <!--Brand Info--> 
+    <div class="brandinfo"> 
+      <h3>DreamLand Vintage</h3> 
+      <p>Contact us at:<br><a href="mailto:DreamLandVintage@gmail.com"><p>DreamLandVintage@gmail.com</p></a> 
+    </div> 
+    <!--Socials--> 
+    <div class="socials"> 
+      <h4>Get in touch with us on socials:</h4>
+      <div class="icons"> 
+        <a href="https://www.instagram.com/dreamland_vintage/" target="_blank"> 
+          <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\instagram-icon.png"> 
+        </a> 
+        <a href="whatsapplink" target="_blank"> 
+          <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\209063554_38c0619b-5c73-4ffb-9178-477245f55b82 (1).png"> 
+        </a> 
+        <a href="https://www.facebook.com/dreamlandvintageclothing/photos" target="_blank"> 
+          <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\150897972_10464408-removebg-preview.png"> 
+        </a> 
+      </div> 
+    </div> 
+    <!--Payment--> 
+    <div class="payment"> 
+      <h4>We Accept:</h4> 
+      <img class="paymenticon" src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\vecteezy_visa-logo-png-visa-icon-transparent-png_20975576.png" alt="Visa"> 
+    </div> 
+  </footer> 
+
+ </body> 
+</html>

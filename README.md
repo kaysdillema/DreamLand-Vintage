@@ -88,6 +88,26 @@ Haim, I. 2025. How Much Does It Cost to Build a Website in [year]? A Comprehensi
 [online] Available at: <https://elementor.com/blog/how-much-does-it-cost-to-build-a-website/>
 [Accessed 10 April 2026]
 GitHub, 2025. GitHub. [online] Available at: <https://github.com/> [Accessed 10 April 2026]
+
+ChangeLog
+
+Phase 1
+- 05/29 Ive ensured the website files look neater by moving images into a folder and html into a specific folder removing the clutter
+- 05/27 Ive removed pages not indicated on the proposal made in part 1
+- 05/27 Ive added a css folder to input my style.css file
+- 05/29 ive changed the links to each image as the image has changed its positioning, it is now in the image folder
+- 05/29 changed link pages that were not in proposal to buttons to prevent excessive pages that were not mentioned,
+  it will be edited to be able to navigate through catagories in part 3 using java script
+- 05/28 changed the colors of initially stated in the proposal such as pastel pink etc, for softer pinks that compliment      eachother better
+- 05/28 changed the positioning of the links being under nav instead they are under a div
+- 05/29 fixed footer by adding more divs to seperate and list information better
+- 05/29 Added a page info header in shirts page
+- 05/29 fixed incorrect and missing div tags in shirt html
+- 05/29 deleted cart.html and changed it into a pop up page instead as it looks and acts more fluid
+
+  Responsive Tests and Screenshots of different screen sizes
+  <img width="400" height="869" alt="phone p1" src="https://github.com/user-attachments/assets/e0410666-3212-413b-8718-57f3201a5f8c" />
+
 ‌
 ‌
 

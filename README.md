@@ -50,6 +50,9 @@ NordWood Themes (2017). person holding pair of brown leather shoes. [online] Uns
 
 king, logo (2026). Visa logo png, Visa icon transparent png. [online] Vecteezy. Available at: <https://www.vecteezy.com/png/20975576-visa-logo-png-visa-icon-transparent-png> [Accessed 28 Apr. 2026]
 
+<!--New image added-->
+Magnific. (n.d.) Shopping cart set four [Online]. Available at: magnific.com [Accessed: 29 May 2026].
+
 <h3>Research References</h3>
 
 Shopify, 2024. 8 Effective Website Goals for Ecommerce Businesses [online] Available at:
@@ -106,6 +109,7 @@ GitHub, 2025. GitHub. [online] Available at: <https://github.com/> [Accessed 10 
 - 05/29 deleted cart.html and changed it into a pop up page instead as it looks and acts more fluid
 
   Responsive Tests and Screenshots of different screen sizes
+  <h3>The following images showcase the websites responsiveness on common devices</h3>
   <h1>Phones</h1>
   
   <img width="400" height="869" alt="phone p1" src="https://github.com/user-attachments/assets/e0410666-3212-413b-8718-57f3201a5f8c" />

@@ -106,7 +106,14 @@ Phase 1
 - 05/29 deleted cart.html and changed it into a pop up page instead as it looks and acts more fluid
 
   Responsive Tests and Screenshots of different screen sizes
+  <h1>Phones</h1>
+  
   <img width="400" height="869" alt="phone p1" src="https://github.com/user-attachments/assets/e0410666-3212-413b-8718-57f3201a5f8c" />
+
+  <img width="400" height="869" alt="phone p1 1" src="https://github.com/user-attachments/assets/b4702d67-5320-41cb-9052-f1088f9dda02" />
+
+<img width="400" height="869" alt="phone p1 2" src="https://github.com/user-attachments/assets/9b851245-9a30-46a4-9df5-faf4434ddfc6" />
+
 
 ‌
 ‌

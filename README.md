@@ -5,56 +5,54 @@
 
 <h3>Content References (Images)</h3>
 
-Unsplash (2015). Photo by Milada Vigerova on Unsplash. [online] unsplash.com. Available at: <https://unsplash.com/photos/white-v-neck-shirt-on-brown-clothes-hanger-p8Drpg_duLw> [Accessed 28 April 2026].
+Blue, T. 2024a. A pair of black jeans sitting on top of a white floor. [online] Available at: https://unsplash.com/photos/a-pair-of-black-jeans-sitting-on-top-of-a-white-floor-h6PKsr0wDH4 [Accessed 28 April 2026].
 
+Blue, T. 2024b. A pair of blue jeans on a white background. [online] Available at: https://unsplash.com/photos/a-pair-of-blue-jeans-on-a-white-background-9yoXrG6Er_g [Accessed 28 April 2026].
 
-Unsplash (2020). Photo by Tobias Tullius on Unsplash. [online] unsplash.com. Available at: <https://unsplash.com/photos/brown-long-sleeve-shirt-on-white-clothes-hanger-Fg15LdqpWrs> [Accessed 28 April 2026].
+Casto, A. 2024. A pair of white high heeled shoes on a grey background. [online] Available at: https://unsplash.com/photos/a-pair-of-white-high-heeled-shoes-on-a-grey-background-dQw7t1LHNkQ [Accessed 28 April 2026].
 
+Facebook.com. 2026. Dreamland Vintage. [online] Available at: https://www.facebook.com/dreamlandvintageclothing/photos [Accessed 28 April 2026].
 
-Hoffman, R. (2021). black long sleeve shirt on white table. [online] Unsplash.com. Available at: <https://unsplash.com/photos/black-long-sleeve-shirt-on-white-table-A7f7XRKgUWc> [Accessed 28 April 2026].
+Hoffman, R. 2021. Black long sleeve shirt on white table. [online] Available at: https://unsplash.com/photos/black-long-sleeve-shirt-on-white-table-A7f7XRKgUWc [Accessed 28 April 2026].
 
-Mattson, J. (2024). A white t - shirt hanging on a white wall. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-white-t-shirt-hanging-on-a-white-wall-fiA7sq2PdnQ> [Accessed 28 April 2026].
+Huang, P. 2025. Jeans hang on a wooden hanger. [online] Available at: https://unsplash.com/photos/jeans-hang-on-a-wooden-hanger-nC4-PXzKZcI [Accessed 28 April 2026].
 
-‌Blue, T. (2024). a pair of blue jeans on a white background. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-pair-of-blue-jeans-on-a-white-background-9yoXrG6Er_g> [Accessed 28 April 2026].
+Instagram.com. 2017. Dreamland Vintage (@dreamland_vintage) • Instagram photos and videos. [online] Available at: https://www.instagram.com/dreamland_vintage/ [Accessed 27 April 2026].
 
-Rodrigues, R. (2023). a pair of jeans hanging on a clothes line. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-pair-of-jeans-hanging-on-a-clothes-line-WSvhSYUUW1s> [Accessed 28 April 2026].
+King, L. 2026. Visa logo png, Visa icon transparent png. [online] Available at: https://www.vecteezy.com/png/20975576-visa-logo-png-visa-icon-transparent-png [Accessed 28 April 2026].
 
-Blue, T. (2024). a pair of black jeans sitting on top of a white floor. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-pair-of-black-jeans-sitting-on-top-of-a-white-floor-h6PKsr0wDH4> [Accessed 28 April 2026].
-
-Huang, P. (2025). Jeans hang on a wooden hanger. [online] Unsplash.com. Available at: <https://unsplash.com/photos/jeans-hang-on-a-wooden-hanger-nC4-PXzKZcI> [Accessed 28 April 2026].
-
-Moloney, M. (2021). blue denim jeans on white textile. [online] Unsplash.com. Available at: <https://unsplash.com/photos/blue-denim-jeans-on-white-textile-YeGao3uk8kI> [Accessed 28 April 2026].
-.
-Quezada, A. (2021). brown leather boots on white table. [online] Unsplash.com. Available at: <https://unsplash.com/photos/brown-leather-boots-on-white-table-qAyOt0aGsCo> [Accessed 28 April 2026].
-
-Casto, A. (2024). a pair of white high heeled shoes on a grey background. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-pair-of-white-high-heeled-shoes-on-a-grey-background-dQw7t1LHNkQ> [Accessed 28 April 2026].
-
-Davide Zacchello (2022). a pair of black shoes sitting on top of a counter. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-pair-of-black-shoes-sitting-on-top-of-a-counter-3lc-DmsLDis> [Accessed 28 April 2026].
-
-Owens, J. (2020). brown and gray slide sandals. [online] Unsplash.com. Available at: <https://unsplash.com/photos/brown-and-gray-slide-sandals-WzncgWs3RJ4> [Accessed 28 April 2026].
-
-Plomp, R. (2020). black white and red nike high top sneaker. [online] Unsplash.com. Available at: <https://unsplash.com/photos/black-white-and-red-nike-high-top-sneaker-76w_eDO1u1E> [Accessed 28 April 2026].
-
-Magnific.com. (2026). Available at: <https://www.magnific.com/free-vector/instagram-icon_954290.htm#fromView=keyword&page=1&position=0&uuid=94b2242a-1345-4838-8f98-4cb37b8d65b5&query=Instagram+logo> [Accessed 28 April 2026].
-
-Magnific.com. (2026). Available at: <https://www.magnific.com/free-vector/phone-message-symbol_209063554.htm#fromView=keyword&page=1&position=5&uuid=8dd129fa-6744-485e-9ee7-5125aae3a982&query=Whatsapp+logo>[Accessed 28 April 2026].
-
-Magnific.com. (2026). Available at: <https://www.magnific.com/free-psd/social-media-logo-design_150897972.htm#fromView=keyword&page=1&position=20&uuid=d3e4185f-dfef-4c21-83b1-81aa24c1db86&query=Facebook+logo> [Accessed 28 April 2026].
-
-Instagram.com. (2017). Dreamland Vintage (@dreamland_vintage) • Instagram photos and videos. [online] Available at: <https://www.instagram.com/dreamland_vintage/> [Accessed 27 April 2026].
-
-Facebook.com. (2026). Dreamland Vintage. [online] Available at: <https://www.facebook.com/dreamlandvintageclothing/photos> [Accessed 28 April 2026].
-
-Unsplash (2020). Photo by Nimble Made on Unsplash. [online] unsplash.com. Available at: <https://unsplash.com/photos/white-button-up-shirt-on-clothes-hanger-hMMXhKSZk7k> [Accessed 27 April 2026].
-
-Leung, J. (2020). blue denim jeans on brown clothes hanger. [online] Unsplash.com. Available at: <https://unsplash.com/photos/blue-denim-jeans-on-brown-clothes-hanger-EtOMMg1nSR8> [Accessed 28 April 2026].
-
-NordWood Themes (2017). person holding pair of brown leather shoes. [online] Unsplash.com. Available at: <https://unsplash.com/photos/person-holding-pair-of-brown-leather-shoes-6V-vJpPzvh8> [Accessed 28 April 2026].
-
-king, logo (2026). Visa logo png, Visa icon transparent png. [online] Vecteezy. Available at: <https://www.vecteezy.com/png/20975576-visa-logo-png-visa-icon-transparent-png> [Accessed 28 April 2026].
-
+Leung, J. 2020. Blue denim jeans on brown clothes hanger. [online] Available at: https://unsplash.com/photos/blue-denim-jeans-on-brown-clothes-hanger-EtOMMg1nSR8 [Accessed 28 April 2026].
 <!--New image added-->
-Magnific. (n.d.) Shopping cart set four [Online]. Available at: magnific.com [Accessed 29 May 2026].
+Magnific. n.d. Shopping cart set four. [online] Available at: http://magnific.com [Accessed 29 May 2026].
+
+Magnific.com. 2026a. Facebook logo. [online] Available at: https://www.magnific.com/free-psd/social-media-logo-design_150897972.htm [Accessed 28 April 2026].
+
+Magnific.com. 2026b. Instagram icon. [online] Available at: https://www.magnific.com/free-vector/instagram-icon_954290.htm [Accessed 28 April 2026].
+
+Magnific.com. 2026c. Phone message symbol (WhatsApp logo). [online] Available at: https://www.magnific.com/free-vector/phone-message-symbol_209063554.htm [Accessed 28 April 2026].
+
+Mattson, J. 2024. A white t - shirt hanging on a white wall. [online] Available at: https://unsplash.com/photos/a-white-t-shirt-hanging-on-a-white-wall-fiA7sq2PdnQ [Accessed 28 April 2026].
+
+Moloney, M. 2021. Blue denim jeans on white textile. [online] Available at: https://unsplash.com/photos/blue-denim-jeans-on-white-textile-YeGao3uk8kI [Accessed 28 April 2026].
+
+Nimble Made. 2020. White button up shirt on clothes hanger. [online] Available at: https://unsplash.com/photos/white-button-up-shirt-on-clothes-hanger-hMMXhKSZk7k [Accessed 27 April 2026].
+
+NordWood Themes. 2017. Person holding pair of brown leather shoes. [online] Available at: https://unsplash.com/photos/person-holding-pair-of-brown-leather-shoes-6V-vJpPzvh8 [Accessed 28 April 2026].
+
+Owens, J. 2020. Brown and gray slide sandals. [online] Available at: https://unsplash.com/photos/brown-and-gray-slide-sandals-WzncgWs3RJ4 [Accessed 28 April 2026].
+
+Plomp, R. 2020. Black white and red nike high top sneaker. [online] Available at: https://unsplash.com/photos/black-white-and-red-nike-high-top-sneaker-76w_eDO1u1E [Accessed 28 April 2026].
+
+Quezada, A. 2021. Brown leather boots on white table. [online] Available at: https://unsplash.com/photos/brown-leather-boots-on-white-table-qAyOt0aGsCo [Accessed 28 April 2026].
+
+Rodrigues, R. 2023. A pair of jeans hanging on a clothes line. [online] Available at: https://unsplash.com/photos/a-pair-of-jeans-hanging-on-a-clothes-line-WSvhSYUUW1s [Accessed 28 April 2026].
+
+Tullius, T. 2020. Brown long sleeve shirt on white clothes hanger. [online] Available at: https://unsplash.com/photos/brown-long-sleeve-shirt-on-white-clothes-hanger-Fg15LdqpWrs [Accessed 28 April 2026].
+
+Vigerova, M. 2015. White v-neck shirt on brown clothes hanger. [online] Available at: https://unsplash.com/photos/white-v-neck-shirt-on-brown-clothes-hanger-p8Drpg_duLw [Accessed 28 April 2026].
+
+Zacchello, D. 2022. A pair of black shoes sitting on top of a counter. [online] Available at: https://unsplash.com/photos/a-pair-of-black-shoes-sitting-on-top-of-a-counter-3lc-DmsLDis [Accessed 28 April 2026].
+
 
 <h3>Research References</h3>
 

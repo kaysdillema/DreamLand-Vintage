@@ -88,9 +88,9 @@ Vaiciunaite, D. 2022. Top 10 website KPIs to measure your client’s website per
 
 W3Schools. 2019. CSS fonts. [online] Available at: https://www.w3schools.com/css/css_font.asp [Accessed 10 April 2026].
 
-<h1>ChangeLog</h1>
+<h1>ChangeLog (More detials in <a href = "CHANGELOG.md"></a></h1>
 
-<strong>Phase 1 & 2</strong>
+<strong>Phase 1 & 2 </strong>
 - 05/29 Ive ensured the website files look neater by moving images and the html files into a folder removing the clutter
 - 05/27 As per the feedback returned, I've removed pages not indicated on the proposal made in part 1
 - 05/27 As per the feedback returned, I've added more comments detailing my coding.

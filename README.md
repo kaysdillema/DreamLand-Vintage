@@ -2,95 +2,109 @@
 
 <h3>Content References (Images)</h3>
 
-Unsplash (2015). Photo by Milada Vigerova on Unsplash. [online] unsplash.com. Available at: <https://unsplash.com/photos/white-v-neck-shirt-on-brown-clothes-hanger-p8Drpg_duLw> [Accessed 28 Apr. 2026]
+Unsplash (2015). Photo by Milada Vigerova on Unsplash. [online] unsplash.com. Available at: <https://unsplash.com/photos/white-v-neck-shirt-on-brown-clothes-hanger-p8Drpg_duLw> [Accessed 28 April 2026].
 
 
-Unsplash (2020). Photo by Tobias Tullius on Unsplash. [online] unsplash.com. Available at: <https://unsplash.com/photos/brown-long-sleeve-shirt-on-white-clothes-hanger-Fg15LdqpWrs> [Accessed 28 Apr. 2026]
+Unsplash (2020). Photo by Tobias Tullius on Unsplash. [online] unsplash.com. Available at: <https://unsplash.com/photos/brown-long-sleeve-shirt-on-white-clothes-hanger-Fg15LdqpWrs> [Accessed 28 April 2026].
 
 
-Hoffman, R. (2021). black long sleeve shirt on white table. [online] Unsplash.com. Available at: <https://unsplash.com/photos/black-long-sleeve-shirt-on-white-table-A7f7XRKgUWc> [Accessed 28 Apr. 2026]
+Hoffman, R. (2021). black long sleeve shirt on white table. [online] Unsplash.com. Available at: <https://unsplash.com/photos/black-long-sleeve-shirt-on-white-table-A7f7XRKgUWc> [Accessed 28 April 2026].
 
-Mattson, J. (2024). A white t - shirt hanging on a white wall. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-white-t-shirt-hanging-on-a-white-wall-fiA7sq2PdnQ> [Accessed 28 Apr. 2026]
+Mattson, J. (2024). A white t - shirt hanging on a white wall. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-white-t-shirt-hanging-on-a-white-wall-fiA7sq2PdnQ> [Accessed 28 April 2026].
 
-‌Blue, T. (2024). a pair of blue jeans on a white background. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-pair-of-blue-jeans-on-a-white-background-9yoXrG6Er_g> [Accessed 28 Apr. 2026]
+‌Blue, T. (2024). a pair of blue jeans on a white background. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-pair-of-blue-jeans-on-a-white-background-9yoXrG6Er_g> [Accessed 28 April 2026].
 
-Rodrigues, R. (2023). a pair of jeans hanging on a clothes line. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-pair-of-jeans-hanging-on-a-clothes-line-WSvhSYUUW1s> [Accessed 28 Apr. 2026]
+Rodrigues, R. (2023). a pair of jeans hanging on a clothes line. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-pair-of-jeans-hanging-on-a-clothes-line-WSvhSYUUW1s> [Accessed 28 April 2026].
 
-Blue, T. (2024). a pair of black jeans sitting on top of a white floor. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-pair-of-black-jeans-sitting-on-top-of-a-white-floor-h6PKsr0wDH4> [Accessed 28 Apr. 2026]
+Blue, T. (2024). a pair of black jeans sitting on top of a white floor. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-pair-of-black-jeans-sitting-on-top-of-a-white-floor-h6PKsr0wDH4> [Accessed 28 April 2026].
 
-Huang, P. (2025). Jeans hang on a wooden hanger. [online] Unsplash.com. Available at: <https://unsplash.com/photos/jeans-hang-on-a-wooden-hanger-nC4-PXzKZcI> [Accessed 28 Apr. 2026]
+Huang, P. (2025). Jeans hang on a wooden hanger. [online] Unsplash.com. Available at: <https://unsplash.com/photos/jeans-hang-on-a-wooden-hanger-nC4-PXzKZcI> [Accessed 28 April 2026].
 
-Moloney, M. (2021). blue denim jeans on white textile. [online] Unsplash.com. Available at: <https://unsplash.com/photos/blue-denim-jeans-on-white-textile-YeGao3uk8kI> [Accessed 28 Apr. 2026]
+Moloney, M. (2021). blue denim jeans on white textile. [online] Unsplash.com. Available at: <https://unsplash.com/photos/blue-denim-jeans-on-white-textile-YeGao3uk8kI> [Accessed 28 April 2026].
+.
+Quezada, A. (2021). brown leather boots on white table. [online] Unsplash.com. Available at: <https://unsplash.com/photos/brown-leather-boots-on-white-table-qAyOt0aGsCo> [Accessed 28 April 2026].
 
-Quezada, A. (2021). brown leather boots on white table. [online] Unsplash.com. Available at: <https://unsplash.com/photos/brown-leather-boots-on-white-table-qAyOt0aGsCo> [Accessed 28 Apr. 2026]
+Casto, A. (2024). a pair of white high heeled shoes on a grey background. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-pair-of-white-high-heeled-shoes-on-a-grey-background-dQw7t1LHNkQ> [Accessed 28 April 2026].
 
-Casto, A. (2024). a pair of white high heeled shoes on a grey background. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-pair-of-white-high-heeled-shoes-on-a-grey-background-dQw7t1LHNkQ> [Accessed 28 Apr. 2026]
+Davide Zacchello (2022). a pair of black shoes sitting on top of a counter. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-pair-of-black-shoes-sitting-on-top-of-a-counter-3lc-DmsLDis> [Accessed 28 April 2026].
 
-Davide Zacchello (2022). a pair of black shoes sitting on top of a counter. [online] Unsplash.com. Available at: <https://unsplash.com/photos/a-pair-of-black-shoes-sitting-on-top-of-a-counter-3lc-DmsLDis> [Accessed 28 Apr. 2026]
+Owens, J. (2020). brown and gray slide sandals. [online] Unsplash.com. Available at: <https://unsplash.com/photos/brown-and-gray-slide-sandals-WzncgWs3RJ4> [Accessed 28 April 2026].
 
-Owens, J. (2020). brown and gray slide sandals. [online] Unsplash.com. Available at: <https://unsplash.com/photos/brown-and-gray-slide-sandals-WzncgWs3RJ4> [Accessed 28 Apr. 2026]
+Plomp, R. (2020). black white and red nike high top sneaker. [online] Unsplash.com. Available at: <https://unsplash.com/photos/black-white-and-red-nike-high-top-sneaker-76w_eDO1u1E> [Accessed 28 April 2026].
 
-Plomp, R. (2020). black white and red nike high top sneaker. [online] Unsplash.com. Available at: <https://unsplash.com/photos/black-white-and-red-nike-high-top-sneaker-76w_eDO1u1E> [Accessed Apr. 2026]
+Magnific.com. (2026). Available at: <https://www.magnific.com/free-vector/instagram-icon_954290.htm#fromView=keyword&page=1&position=0&uuid=94b2242a-1345-4838-8f98-4cb37b8d65b5&query=Instagram+logo> [Accessed 28 April 2026].
 
-Magnific.com. (2026). Available at: <https://www.magnific.com/free-vector/instagram-icon_954290.htm#fromView=keyword&page=1&position=0&uuid=94b2242a-1345-4838-8f98-4cb37b8d65b5&query=Instagram+logo> [Accessed 28 Apr. 2026]
+Magnific.com. (2026). Available at: <https://www.magnific.com/free-vector/phone-message-symbol_209063554.htm#fromView=keyword&page=1&position=5&uuid=8dd129fa-6744-485e-9ee7-5125aae3a982&query=Whatsapp+logo>[Accessed 28 April 2026].
 
-Magnific.com. (2026). Available at: <https://www.magnific.com/free-vector/phone-message-symbol_209063554.htm#fromView=keyword&page=1&position=5&uuid=8dd129fa-6744-485e-9ee7-5125aae3a982&query=Whatsapp+logo>[Accessed 28 Apr. 2026]
+Magnific.com. (2026). Available at: <https://www.magnific.com/free-psd/social-media-logo-design_150897972.htm#fromView=keyword&page=1&position=20&uuid=d3e4185f-dfef-4c21-83b1-81aa24c1db86&query=Facebook+logo> [Accessed 28 April 2026].
 
-Magnific.com. (2026). Available at: <https://www.magnific.com/free-psd/social-media-logo-design_150897972.htm#fromView=keyword&page=1&position=20&uuid=d3e4185f-dfef-4c21-83b1-81aa24c1db86&query=Facebook+logo> [Accessed 28 Apr. 2026]
+Instagram.com. (2017). Dreamland Vintage (@dreamland_vintage) • Instagram photos and videos. [online] Available at: <https://www.instagram.com/dreamland_vintage/> [Accessed 27 April 2026].
 
-Instagram.com. (2017). Dreamland Vintage (@dreamland_vintage) • Instagram photos and videos. [online] Available at: <https://www.instagram.com/dreamland_vintage/> [Accessed Apr. 2026]
+Facebook.com. (2026). Dreamland Vintage. [online] Available at: <https://www.facebook.com/dreamlandvintageclothing/photos> [Accessed 28 April 2026].
 
-Facebook.com. (2026). Dreamland Vintage. [online] Available at: <https://www.facebook.com/dreamlandvintageclothing/photos> [Accessed 28 Apr. 2026]
+Unsplash (2020). Photo by Nimble Made on Unsplash. [online] unsplash.com. Available at: <https://unsplash.com/photos/white-button-up-shirt-on-clothes-hanger-hMMXhKSZk7k> [Accessed 27 April 2026].
 
-Unsplash (2020). Photo by Nimble Made on Unsplash. [online] unsplash.com. Available at: <https://unsplash.com/photos/white-button-up-shirt-on-clothes-hanger-hMMXhKSZk7k> [Accessed Apr. 2026]
+Leung, J. (2020). blue denim jeans on brown clothes hanger. [online] Unsplash.com. Available at: <https://unsplash.com/photos/blue-denim-jeans-on-brown-clothes-hanger-EtOMMg1nSR8> [Accessed 28 April 2026].
 
-Leung, J. (2020). blue denim jeans on brown clothes hanger. [online] Unsplash.com. Available at: <https://unsplash.com/photos/blue-denim-jeans-on-brown-clothes-hanger-EtOMMg1nSR8> [Accessed 28 Apr. 2026]
+NordWood Themes (2017). person holding pair of brown leather shoes. [online] Unsplash.com. Available at: <https://unsplash.com/photos/person-holding-pair-of-brown-leather-shoes-6V-vJpPzvh8> [Accessed 28 April 2026].
 
-NordWood Themes (2017). person holding pair of brown leather shoes. [online] Unsplash.com. Available at: <https://unsplash.com/photos/person-holding-pair-of-brown-leather-shoes-6V-vJpPzvh8> [Accessed 28 Apr. 2026]
-
-king, logo (2026). Visa logo png, Visa icon transparent png. [online] Vecteezy. Available at: <https://www.vecteezy.com/png/20975576-visa-logo-png-visa-icon-transparent-png> [Accessed 28 Apr. 2026]
+king, logo (2026). Visa logo png, Visa icon transparent png. [online] Vecteezy. Available at: <https://www.vecteezy.com/png/20975576-visa-logo-png-visa-icon-transparent-png> [Accessed 28 April 2026].
 
 <!--New image added-->
-Magnific. (n.d.) Shopping cart set four [Online]. Available at: magnific.com [Accessed: 29 May 2026].
+Magnific. (n.d.) Shopping cart set four [Online]. Available at: magnific.com [Accessed 29 May 2026].
 
 <h3>Research References</h3>
 
 Shopify, 2024. 8 Effective Website Goals for Ecommerce Businesses [online] Available at:
 <https://www.shopify.com/za/blog/website-goals> [Accessed 10 April 2026]
+
 Half & Halve, 2018. Dreamland Vintage. [online] Available at:
 <https://halfandhalve.wordpress.com/2018/04/30/dreamland-vintage/> [Accessed 10 April 2026]
+
 Vintageclothingcollective.com. 2026. Dreamland Vintage | Stores. [online] Available at:
 <https://www.vintageclothingcollective.com/stores/dreamland-vintage> [Accessed 10 Apil 2026]
+
 Dreamland Vintage, 2017. Instagram photos and videos. [online] Available at:
-<https://www.instagram.com/dreamland_vintage/> [Accessed 10 April 2026]
+<https://www.instagram.com/dreamland_vintage/> [Accessed 10 April 2026].
+
 Facebook.com. 2026. Dreamland Vintage. [online] Available at:
 <https://www.facebook.com/dreamlandvintageclothing/> [Accessed 10 April 2026].
+
 KPI.ORG, 2024. What is a Key Performance Indicator (KPI)? [online] Available at:
-<https://www.kpi.org/KPI-Basics/ > [Accessed 10 April 2026]
+<https://www.kpi.org/KPI-Basics/ > [Accessed 10 April 2026].
+
 Anon, 2022. How to Identify KPIs in 4 Steps | OnStrategy Resources. [online] Available at:
-<https://onstrategyhq.com/resources/how-to-identify-kpis/> [Accessed 10 April 2026]
+<https://onstrategyhq.com/resources/how-to-identify-kpis/> [Accessed 10 April 2026].
+
 Vaiciunaite, D. 2022. Top 10 Website KPIs to Measure Your Client’s Website Performance | Blog |
-Whatagraph. [online] Available at: <https://whatagraph.com/blog/articles/website-kpis>
+Whatagraph. [online] Available at: <https://whatagraph.com/blog/articles/website-kpis> [Accessed 10 April 2026].
+
 HTML Color Codes, (n.d.). Color Library. [online] Available at:
-< https://htmlcolorcodes.com/colors/> [Accessed 10 April 2026]
+< https://htmlcolorcodes.com/colors/> [Accessed 10 April 2026].
+
 W3Schools, 2019. CSS Fonts. [online] Available at:
-<https://www.w3schools.com/css/css_font.asp> [Accessed 10 April 2026]
-13
+<https://www.w3schools.com/css/css_font.asp> [Accessed 10 April 2026].
+
 Make it Clear, 2025. Make it Clear. [online] Available at:
 <https://makeitclear.com/polish-with-purpose-designing-the-moments-users-remember/>
-[Accessed 10 April 2026]
+[Accessed 10 April 2026].
+
 Qualtrics, 2023. What is Website User Experience & How Do You Improve It? [online] Available at:
 <https://www.qualtrics.com/articles/customer-experience/website-user-experience/>
-[Accessed 10 April 2026]
+[Accessed 10 April 2026],
+
 Venter, C. 2026. Domain Name Registration Guide - Domains.co.za. [online] Available at:
-<https://www.domains.co.za/blog/domain-name-registration-guide/> [Accessed 10 April 2026]
+<https://www.domains.co.za/blog/domain-name-registration-guide/> [Accessed 10 April 2026].
+
 Strong Digital, 2025. How Much Does A Website Cost In Australia? (2026 Honest Guide). [online]
 Available at:<https://strong.digital/how-much-should-a-website-cost-in-2026/>
-[Accessed 10 April 2026]
+[Accessed 10 April 2026].
+
 Haim, I. 2025. How Much Does It Cost to Build a Website in [year]? A Comprehensive Guide.
 [online] Available at: <https://elementor.com/blog/how-much-does-it-cost-to-build-a-website/>
-[Accessed 10 April 2026]
-GitHub, 2025. GitHub. [online] Available at: <https://github.com/> [Accessed 10 April 2026]
+[Accessed 10 April 2026].
+
+GitHub, 2025. GitHub. [online] Available at: <https://github.com/> [Accessed 10 April 2026].
 
 <h1>ChangeLog</h1>
 

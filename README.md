@@ -90,9 +90,10 @@ W3Schools. 2019. CSS fonts. [online] Available at: https://www.w3schools.com/css
 
 <h1>ChangeLog</h1>
 
-<strong>Phase 1</strong>
+<strong>Phase 1 & 2</strong>
 - 05/29 Ive ensured the website files look neater by moving images and the html files into a folder removing the clutter
-- 05/27 Ive removed pages not indicated on the proposal made in part 1
+- 05/27 As per the feedback returned, I've removed pages not indicated on the proposal made in part 1
+- 05/27 As per the feedback returned, I've added more comments detailing my coding.
 - 05/29 ive changed the links to each image as the image has changed its positioning, it is now in the image folder
 - 05/29 changed link pages that were not in proposal to buttons to prevent excessive pages that were not mentioned,
   it will be edited to be able to navigate through catagories in part 3 using java script
@@ -103,9 +104,10 @@ W3Schools. 2019. CSS fonts. [online] Available at: https://www.w3schools.com/css
 - 05/29 fixed incorrect and missing div tags in shirt html
 - 05/29 deleted cart.html and changed it into a pop up page instead as it looks and acts more fluid
 - 05/29 ive linked my style.css page to my html
-
-  Phase 2
 - 05/27 Ive added a css folder to input my style.css file
+- 05/28 Ive added pictures to the readme.md to give a visual representation of the websites responsiveness on different devices
+- 05/28 added this changelog section in readme.md to document my changes
+- implemented flex box and align-items to ensure proper representation of the website.
 
   <h1>Responsive Tests and Screenshots of different screen sizes</h1>
   <h3>The following images showcase the websites responsiveness on common devices</h3>

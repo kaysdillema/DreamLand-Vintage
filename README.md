@@ -112,18 +112,21 @@ GitHub, 2025. GitHub. [online] Available at: <https://github.com/> [Accessed 10 
 <h1>ChangeLog</h1>
 
 <strong>Phase 1</strong>
-- 05/29 Ive ensured the website files look neater by moving images into a folder and html into a specific folder removing the clutter
+- 05/29 Ive ensured the website files look neater by moving images and the html files into a folder removing the clutter
 - 05/27 Ive removed pages not indicated on the proposal made in part 1
-- 05/27 Ive added a css folder to input my style.css file
 - 05/29 ive changed the links to each image as the image has changed its positioning, it is now in the image folder
 - 05/29 changed link pages that were not in proposal to buttons to prevent excessive pages that were not mentioned,
   it will be edited to be able to navigate through catagories in part 3 using java script
-- 05/28 changed the colors of initially stated in the proposal such as pastel pink etc, for softer pinks that compliment      eachother better
+- 05/28 changed the colors initially stated in the proposal such as pastel pink etc, for softer pinks that compliment eachother better
 - 05/28 changed the positioning of the links being under nav instead they are under a div
 - 05/29 fixed footer by adding more divs to seperate and list information better
 - 05/29 Added a page info header in shirts page
 - 05/29 fixed incorrect and missing div tags in shirt html
 - 05/29 deleted cart.html and changed it into a pop up page instead as it looks and acts more fluid
+- 05/29 ive linked my style.css page to my html
+
+  Phase 2
+  - 05/27 Ive added a css folder to input my style.css file
 
   Responsive Tests and Screenshots of different screen sizes
   <h3>The following images showcase the websites responsiveness on common devices</h3>

@@ -56,56 +56,37 @@ Zacchello, D. 2022. A pair of black shoes sitting on top of a counter. [online] 
 
 <h3>Research References</h3>
 
-Shopify, 2024. 8 Effective Website Goals for Ecommerce Businesses [online] Available at:
-<https://www.shopify.com/za/blog/website-goals> [Accessed 10 April 2026]
+Anon. 2022. How to identify KPIs in 4 steps | OnStrategy resources. [online] Available at: https://onstrategyhq.com/resources/how-to-identify-kpis/ [Accessed 10 April 2026].
 
-Half & Halve, 2018. Dreamland Vintage. [online] Available at:
-<https://halfandhalve.wordpress.com/2018/04/30/dreamland-vintage/> [Accessed 10 April 2026]
+Dreamland Vintage. 2017. Instagram photos and videos. [online] Available at: https://www.instagram.com/dreamland_vintage/ [Accessed 10 April 2026].
 
-Vintageclothingcollective.com. 2026. Dreamland Vintage | Stores. [online] Available at:
-<https://www.vintageclothingcollective.com/stores/dreamland-vintage> [Accessed 10 Apil 2026]
+Facebook.com. 2026. Dreamland Vintage. [online] Available at: https://www.facebook.com/dreamlandvintageclothing/ [Accessed 10 April 2026].
 
-Dreamland Vintage, 2017. Instagram photos and videos. [online] Available at:
-<https://www.instagram.com/dreamland_vintage/> [Accessed 10 April 2026].
+GitHub. 2025. GitHub. [online] Available at: https://github.com/ [Accessed 10 April 2026].
 
-Facebook.com. 2026. Dreamland Vintage. [online] Available at:
-<https://www.facebook.com/dreamlandvintageclothing/> [Accessed 10 April 2026].
+Haim, I. 2025. How much does it cost to build a website in [year]? A comprehensive guide. [online] Available at: https://elementor.com/blog/how-much-does-it-cost-to-build-a-website/ [Accessed 10 April 2026].
 
-KPI.ORG, 2024. What is a Key Performance Indicator (KPI)? [online] Available at:
-<https://www.kpi.org/KPI-Basics/ > [Accessed 10 April 2026].
+Half & Halve. 2018. Dreamland Vintage. [online] Available at: https://halfandhalve.wordpress.com/2018/04/30/dreamland-vintage/ [Accessed 10 April 2026].
 
-Anon, 2022. How to Identify KPIs in 4 Steps | OnStrategy Resources. [online] Available at:
-<https://onstrategyhq.com/resources/how-to-identify-kpis/> [Accessed 10 April 2026].
+HTML Color Codes. n.d. Color library. [online] Available at: < https://htmlcolorcodes.com/colors/> [Accessed 10 April 2026].
 
-Vaiciunaite, D. 2022. Top 10 Website KPIs to Measure Your Client’s Website Performance | Blog |
-Whatagraph. [online] Available at: <https://whatagraph.com/blog/articles/website-kpis> [Accessed 10 April 2026].
+KPI.ORG. 2024. What is a key performance indicator (KPI)? [online] Available at: <https://www.kpi.org/KPI-Basics/ > [Accessed 10 April 2026].
 
-HTML Color Codes, (n.d.). Color Library. [online] Available at:
-< https://htmlcolorcodes.com/colors/> [Accessed 10 April 2026].
+Make it Clear. 2025. Make it clear. [online] Available at: https://makeitclear.com/polish-with-purpose-designing-the-moments-users-remember/ [Accessed 10 April 2026].
 
-W3Schools, 2019. CSS Fonts. [online] Available at:
-<https://www.w3schools.com/css/css_font.asp> [Accessed 10 April 2026].
+Qualtrics. 2023. What is website user experience & how do you improve it? [online] Available at: https://www.qualtrics.com/articles/customer-experience/website-user-experience/ [Accessed 10 April 2026].
 
-Make it Clear, 2025. Make it Clear. [online] Available at:
-<https://makeitclear.com/polish-with-purpose-designing-the-moments-users-remember/>
-[Accessed 10 April 2026].
+Shopify. 2024. 8 effective website goals for ecommerce businesses. [online] Available at: https://www.shopify.com/za/blog/website-goals [Accessed 10 April 2026].
 
-Qualtrics, 2023. What is Website User Experience & How Do You Improve It? [online] Available at:
-<https://www.qualtrics.com/articles/customer-experience/website-user-experience/>
-[Accessed 10 April 2026],
+Strong Digital. 2025. How much does a website cost in Australia? (2026 honest guide). [online] Available at: https://strong.digital/how-much-should-a-website-cost-in-2026/ [Accessed 10 April 2026].
 
-Venter, C. 2026. Domain Name Registration Guide - Domains.co.za. [online] Available at:
-<https://www.domains.co.za/blog/domain-name-registration-guide/> [Accessed 10 April 2026].
+Venter, C. 2026. Domain name registration guide - Domains.co.za. [online] Available at: https://www.domains.co.za/blog/domain-name-registration-guide/ [Accessed 10 April 2026].
 
-Strong Digital, 2025. How Much Does A Website Cost In Australia? (2026 Honest Guide). [online]
-Available at:<https://strong.digital/how-much-should-a-website-cost-in-2026/>
-[Accessed 10 April 2026].
+Vintageclothingcollective.com. 2026. Dreamland Vintage | Stores. [online] Available at: https://www.vintageclothingcollective.com/stores/dreamland-vintage [Accessed 10 April 2026].
 
-Haim, I. 2025. How Much Does It Cost to Build a Website in [year]? A Comprehensive Guide.
-[online] Available at: <https://elementor.com/blog/how-much-does-it-cost-to-build-a-website/>
-[Accessed 10 April 2026].
+Vaiciunaite, D. 2022. Top 10 website KPIs to measure your client’s website performance | Blog | Whatagraph. [online] Available at: https://whatagraph.com/blog/articles/website-kpis [Accessed 10 April 2026].
 
-GitHub, 2025. GitHub. [online] Available at: <https://github.com/> [Accessed 10 April 2026].
+W3Schools. 2019. CSS fonts. [online] Available at: https://www.w3schools.com/css/css_font.asp [Accessed 10 April 2026].
 
 <h1>ChangeLog</h1>
 

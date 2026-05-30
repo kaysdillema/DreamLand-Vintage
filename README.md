@@ -1,5 +1,8 @@
 # DreamLand Vintage
 
+<h1>Overview</h1>
+<p>This website aims to aid Dreamland Vintage in its transition from just being an established, nostalgia-focused fashion brand from social media to a high-converting, visually vibrant e-commerce platform that aligns with its sustainable, 70s-to-2000s aesthetic. Key strategies include a complete visual overhaul using a warm pastel color palette, implementing robust, high-quality product catalogs with integrated reviews, and enhancing mobile responsiveness to improve conversion rates.</p>
+
 <h3>Content References (Images)</h3>
 
 Unsplash (2015). Photo by Milada Vigerova on Unsplash. [online] unsplash.com. Available at: <https://unsplash.com/photos/white-v-neck-shirt-on-brown-clothes-hanger-p8Drpg_duLw> [Accessed 28 April 2026].

@@ -126,9 +126,9 @@ GitHub, 2025. GitHub. [online] Available at: <https://github.com/> [Accessed 10 
 - 05/29 ive linked my style.css page to my html
 
   Phase 2
-  - 05/27 Ive added a css folder to input my style.css file
+- 05/27 Ive added a css folder to input my style.css file
 
-  Responsive Tests and Screenshots of different screen sizes
+  <h1>Responsive Tests and Screenshots of different screen sizes</h1>
   <h3>The following images showcase the websites responsiveness on common devices</h3>
   <h1>Phones</h1>
   

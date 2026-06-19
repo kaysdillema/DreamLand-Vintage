@@ -13,4 +13,4 @@ Allow: /contact.html
 Allow: /reviews.html
 
 
-Sitemap: https://dreamlandvintage.co.za
+Sitemap: https://kaysdillema.github.io/DreamLand-Vintage/

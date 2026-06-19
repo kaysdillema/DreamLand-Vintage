@@ -67,65 +67,8 @@ Cancio, C. 2020. gray leather peep toe sandals. [online] Available at: https://u
 
 Magnific.com. 2026. [online] Available at: https://www.magnific.com/free-photo/men-rsquo-s-black-short-sleeve-shirt-casual-apparel_15850029.htm#fromView=search&page=1&position=43&uuid=9878e330-5b6c-496f-a3e0-ec1231cf83e0&query=shirt [Accessed 19 June 2026].
 
-Steve Builds Websites 2024. How To Make A Website | Step By Step [2025]. [online] Available at: https://www.youtube.com/watch?v=prLv5uwUtuY [Accessed 19 June 2026].
-
-Cannon, C. 2022. Beginner’s Guide to Search Engine Optimization. [online] Available at: https://blog.shift4shop.com/beginners-guide-to-seo [Accessed 19 June 2026].
-
-Bawa, N. 2023. What is URL Structure in SEO? Best Practices and Impact on Rankings (2025). [online] Available at: https://www.techmagnate.com/blog/why-is-url-structure-important-for-seo/ [Accessed 19 June 2026]
-
-Idris, N. 2021. CSS responsive design using Grid, Flexbox, and media queries handbook. [online] Available at: https://developerlife.com/2021/10/19/css-responsive-design-handbook/ [Accessed 19 June 2026]
-
-www.youtube.com. n.d. How To Make Working Contact Form With JavaScript | Receive Form Data On Email. [online] Available at: https://www.youtube.com/watch?v=sGQSz22U8VM [Accessed 19 June 2026].
-
-GeeksforGeeks 2023. Create a Contact Form using HTML CSS & JavaScript. [online] Available at: https://www.geeksforgeeks.org/javascript/create-a-contact-form-using-html-css-javascript/ [Accessed 19 June 2026].
-
-ByteGrad 2026. How to Keep Active CSS Style After Click on Button [online] Available at: <https://www.youtube.com/watch?v=zh1xus05Kl8&t=4> [Accessed 19 June 2026].
-
-Lun Dev 2026. Responsive Add Cart Shopping using HTML CSS and Javascript [online] Available at: <https://www.youtube.com/watch?v=zqzLwph7BKo> [Accessed 19 June 2026].
-
-MDN Web Docs 2025. Window: localStorage property. MDN Web Docs, 30 November [online]. Available at: <https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage> [Accessed 19 June 2026].
-
-Pillagerplayz 2024. How to create a simple shopping cart in HTML5, CSS3, and JS with Payment integration. DEV Community, 18 September [online] Available at: <https://dev.to/pillagerplayz/how-to-create-a-simple-shopping-cart-in-html5-css3-and-js-with-payment-integration-4cel> [Accessed 19 June 2026].
-
-ProgrammingKnowledge 2026. How to Use Local Storage in JavaScript | Save & Retrieve Data Like a Pro [online] Available at: <https://www.youtube.com/watch?v=j-BsQhDsx24&vl=en&t=404> [Accessed 19 June 2026].
-
-ServiceNow Community 2026. Highlight the active current pressed button html by default. ServiceNow Community, 18 June [online] Available at: <https://www.servicenow.com/community/developer-forum/highlight-the-active-current-pressed-button-html-by-default/m-p/2403918> [Accessed 19 June 2026].
-
-Web Dev Tutorials 2026. Complete Contact Form Using HTML CSS JavaScript | Form Validation Tutorial for Beginners [online] Available at: <https://www.youtube.com/watch?v=pM9tQ1u6oF0&t=21> [Accessed 19 June 2026].
-
-Zand, M 2019. Creating A Shopping Cart With HTML5 Web Storage. Smashing Magazine, 26 August [online] Available at: <https://www.smashingmagazine.com/2019/08/shopping-cart-html5-web-storage/> [Accessed 19 June 2026].
 
 
-
-
-
-
-
-
-
-‌
-
-‌
-
-‌
-
-‌
-
-‌
-
-‌
-
-
-‌
-
-‌
-‌
-
-‌
-
-‌
-
-‌
 
 
 <h3>Research References</h3>
@@ -161,6 +104,35 @@ Vintageclothingcollective.com. 2026. Dreamland Vintage | Stores. [online] Availa
 Vaiciunaite, D. 2022. Top 10 website KPIs to measure your client’s website performance | Blog | Whatagraph. [online] Available at: https://whatagraph.com/blog/articles/website-kpis [Accessed 10 April 2026].
 
 W3Schools. 2019. CSS fonts. [online] Available at: https://www.w3schools.com/css/css_font.asp [Accessed 10 April 2026].
+
+Steve Builds Websites 2024. How To Make A Website | Step By Step [2025]. [online] Available at: https://www.youtube.com/watch?v=prLv5uwUtuY [Accessed 19 June 2026].
+
+Cannon, C. 2022. Beginner’s Guide to Search Engine Optimization. [online] Available at: https://blog.shift4shop.com/beginners-guide-to-seo [Accessed 19 June 2026].
+
+Bawa, N. 2023. What is URL Structure in SEO? Best Practices and Impact on Rankings (2025). [online] Available at: https://www.techmagnate.com/blog/why-is-url-structure-important-for-seo/ [Accessed 19 June 2026]
+
+Idris, N. 2021. CSS responsive design using Grid, Flexbox, and media queries handbook. [online] Available at: https://developerlife.com/2021/10/19/css-responsive-design-handbook/ [Accessed 19 June 2026]
+
+www.youtube.com. n.d. How To Make Working Contact Form With JavaScript | Receive Form Data On Email. [online] Available at: https://www.youtube.com/watch?v=sGQSz22U8VM [Accessed 19 June 2026].
+
+GeeksforGeeks 2023. Create a Contact Form using HTML CSS & JavaScript. [online] Available at: https://www.geeksforgeeks.org/javascript/create-a-contact-form-using-html-css-javascript/ [Accessed 19 June 2026].
+
+ByteGrad 2026. How to Keep Active CSS Style After Click on Button [online] Available at: <https://www.youtube.com/watch?v=zh1xus05Kl8&t=4> [Accessed 19 June 2026].
+
+Lun Dev 2026. Responsive Add Cart Shopping using HTML CSS and Javascript [online] Available at: <https://www.youtube.com/watch?v=zqzLwph7BKo> [Accessed 19 June 2026].
+
+MDN Web Docs 2025. Window: localStorage property. MDN Web Docs, 30 November [online]. Available at: <https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage> [Accessed 19 June 2026].
+
+Pillagerplayz 2024. How to create a simple shopping cart in HTML5, CSS3, and JS with Payment integration. DEV Community, 18 September [online] Available at: <https://dev.to/pillagerplayz/how-to-create-a-simple-shopping-cart-in-html5-css3-and-js-with-payment-integration-4cel> [Accessed 19 June 2026].
+
+ProgrammingKnowledge 2026. How to Use Local Storage in JavaScript | Save & Retrieve Data Like a Pro [online] Available at: <https://www.youtube.com/watch?v=j-BsQhDsx24&vl=en&t=404> [Accessed 19 June 2026].
+
+ServiceNow Community 2026. Highlight the active current pressed button html by default. ServiceNow Community, 18 June [online] Available at: <https://www.servicenow.com/community/developer-forum/highlight-the-active-current-pressed-button-html-by-default/m-p/2403918> [Accessed 19 June 2026].
+
+Web Dev Tutorials 2026. Complete Contact Form Using HTML CSS JavaScript | Form Validation Tutorial for Beginners [online] Available at: <https://www.youtube.com/watch?v=pM9tQ1u6oF0&t=21> [Accessed 19 June 2026].
+
+Zand, M 2019. Creating A Shopping Cart With HTML5 Web Storage. Smashing Magazine, 26 August [online] Available at: <https://www.smashingmagazine.com/2019/08/shopping-cart-html5-web-storage/> [Accessed 19 June 2026].
+
 
 <h1>ChangeLog (More detials in CHANGELOG.md) </h1>
 

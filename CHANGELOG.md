@@ -55,3 +55,36 @@ Added the correct fonts as mentioned in the proposal such as  “Goergia” seri
 <h3>2026.05.28</h3>
 <h4>Added</h4>
 Linked my html pages to my css page
+
+<h3>2026.06.19</h3>
+<h4>Added</h4>
+added a JS folder with javascript file
+
+<h3>2026.06.19</h3>
+<h4>Removed</h4>
+Removed the normal flat buttons for the size and price filter into interactive drop down menus
+
+<h3>2026.06.19</h3>
+<h4>Added</h4>
+Added .Item.Card.hide at the very bottom of the CSS file to support the JS filter
+
+<h3>2026.06.19</h3>
+<h4>Updated</h4>
+updated catalog grid with new data attributes
+
+<h3>2026.06.19</h3>
+<h4>Removed</h4>
+removed placeholder items from cartcontentcontainer in order to have cart be empty
+
+<h3>2026.06.19</h3>
+<h4>Changed</h4>
+changed the grid layout of the contact page so its more fluid and responsive and allowing for the new form
+
+<h3>2026.06.19</h3>
+<h4>Updated</h4>
+updated review filter buttons to now operate and function
+
+<h3>2026.06.19</h3>
+<h4>Improved</h4>
+improved title, it includes core and relevant keywords
+

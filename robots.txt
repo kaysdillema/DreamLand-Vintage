@@ -1,0 +1,16 @@
+User-agent: *   
+
+# 1. PAGES TO BLOCK 
+Disallow: /#cart-popup
+Disallow: /#productModal
+
+# 2. PAGES TO ALLOW
+Allow: /index.html
+Allow: /shirts.html
+Allow: /jeans.html
+Allow: /shoes.html
+Allow: /contact.html
+Allow: /reviews.html
+
+
+Sitemap: https://dreamlandvintage.co.za

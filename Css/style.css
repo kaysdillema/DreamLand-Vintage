@@ -79,7 +79,7 @@ body {
     width: 100%; 
 } 
 
-.subheader h1 { 
+.subheader h2 { 
     margin: 0; 
     color: white; 
     font-size: 1.4rem; 
@@ -88,6 +88,16 @@ body {
     text-align: center;
 } 
 
+.seo-title {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4a1521; /* burgundy to have a deeper effect */
+    font-size: 2rem;
+    margin: 30px 0 10px 0;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
 .ItemNavigations { 
     display: flex; 
     gap: 10px; 
@@ -95,7 +105,7 @@ body {
     justify-content: center;
 } 
 /*Code to decorate filter options*/
-.MenOption, .WomenOption, .SizeOption, .PriceOption, .stars { 
+.MenOption, .WomenOption, .SizeOption, .PriceOption{ 
     text-decoration: none; 
     background-color: rgb(252, 183, 195); 
     color: white; 
@@ -109,11 +119,38 @@ body {
     white-space: nowrap;
 } 
 
-.MenOption:hover, .WomenOption:hover, .SizeOption:hover, .PriceOption:hover, .stars:hover { 
+.MenOption:hover, .WomenOption:hover, .SizeOption:hover, .PriceOption:hover{ 
     box-shadow: 0px 8px 15px rgba(255, 148, 166, 0.6); 
     background-color: rgb(255, 148, 166); 
     transform: translateY(-2px); 
 } 
+
+.stars{
+    text-decoration: none; 
+    background-color: rgb(252, 183, 195); 
+    color: white; 
+    padding: 10px 18px; 
+    border-radius: 4px; 
+    border: none; 
+    cursor: pointer; 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 0.9rem; 
+    transition: box-shadow 0.3s ease, background-color 0.3s ease, transform 0.2s ease; 
+    white-space: nowrap;
+}
+
+.stars:hover {
+    background-color: rgb(255, 148, 166);
+    box-shadow: 0px 8px 15px rgba(255, 148, 166, 0.6);
+    transform: translateY(-2px);
+}
+
+/* when a star rating button is actively selected */
+.stars.active-filter {
+    background-color: rgb(255, 148, 166) !important;
+    box-shadow: 0px 8px 15px rgba(255, 148, 166, 0.6);
+    transform: translateY(-2px);
+}
 
 .CatalogNavigations { 
     display: grid; 
@@ -222,7 +259,7 @@ body {
     display: block; 
 } 
 
-.ContactOptions, .ReviewList { 
+.ReviewList { 
     display: flex; 
     justify-content: center; 
     gap: 30px; 
@@ -232,7 +269,7 @@ body {
     flex-wrap: wrap; 
 } 
 
-.ContactCard, .ReviewCard { 
+.ReviewCard { 
     background-color: rgb(253, 163, 178); 
     border-radius: 12px; 
     padding: 35px 25px; 
@@ -243,6 +280,36 @@ body {
     box-shadow: 0 4px 15px rgba(253, 163, 178, 0.2); 
     transition: transform 0.3s ease, box-shadow 0.3s ease; 
 } 
+
+/* Layout Container for the Contact Cards and Form Box */
+.ContactOptions {
+    display: grid;
+    /* calculates column maps between 320px up to 1fr maximum width */
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 30px;
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+
+.ContactCard {
+    background-color: rgb(253, 163, 178);
+    border-radius: 12px;
+    padding: 35px 25px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    box-shadow: 0 4px 15px rgba(253, 163, 178, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Specifics only for the form card */
+.FormCard {
+    text-align: left;
+    width: 100%;
+}
 
 .ContactCard:hover, .ReviewCard:hover { 
     transform: translateY(-8px); 
@@ -534,18 +601,422 @@ body {
   border-radius: 4px;
 }
 
-.secondary {
+button.secondary {
   background: #e0e0e0;
   color: #333;
+  transition: background-color 0.2s ease transform 0.1s ease;
 }
 
-.primary {
-  background: #333;
-  color: #fff;
+button.secondary:hover {
+    background-color: #999999;
+    transform: translateY(-1px);
 }
+
+button.secondary:active {
+    transform: translateY(0);
+}
+
 /*Code ensures the cart panel that pop ups is also responsive on all devices*/
 @media (max-width: 480px) {
   .cartpanel {
     max-width: 100%;
   }
 }
+
+/* Guarantees that filtered cards disappear natively across all page designs */
+.ItemCard.hide,
+.ReviewCard.hide {
+    display: none !important;
+}
+
+/* Keeps the button styled and transitions smoothly */
+.MenOption.active-filter, 
+.WomenOption.active-filter {
+    background-color: rgb(255, 148, 166) !important;
+    box-shadow: 0px 8px 15px rgba(255, 148, 166, 0.6);
+    transform: translateY(-2px);
+    /* Animates background color, shadow, and transform positions seamlessly */
+    transition: all 0.3s ease; 
+}
+
+/* Styles dropdown elements to blend with the rest of the theme of the site */
+select.SizeOption, select.PriceOption {
+    background-color: rgb(252, 183, 195);
+    color: white;
+    padding: 10px 18px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9rem;
+    outline: none;
+    transition: background-color 0.3s ease;
+}
+
+select.SizeOption:hover, select.PriceOption:hover {
+    background-color: rgb(255, 148, 166);
+}
+
+/* Fixes arrow container colors inside dropdown option blocks */
+select option {
+    background-color: white;
+    color: #333;
+}
+
+/* Modal Background Overlay */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(4px); /* background blur */
+    z-index: 10000; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+}
+
+/* Active State to Open Modal */
+.modal-overlay.open {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+/* Modal Content Card Panel Box */
+.modal-content {
+    background-color: rgb(253, 163, 178); /* Matches the pink theme */
+    width: 90%;
+    max-width: 750px;
+    border-radius: 16px;
+    padding: 30px;
+    position: relative;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+    transform: scale(0.8);
+    transition: transform 0.3s ease;
+}
+
+.modal-overlay.open .modal-content {
+    transform: scale(1);
+}
+
+/* Close Window Trigger button styling */
+.close-modal {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    font-size: 2.2rem;
+    color: white;
+    cursor: pointer;
+    transition: color 0.2s ease;
+}
+.close-modal:hover {
+    color: #333;
+}
+
+/* Flex Layout Structure */
+.modal-body {
+    display: flex;
+    gap: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.modal-left, .modal-right {
+    flex: 1;
+}
+
+.modal-left img {
+    width: 100%;
+    height: 420px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.modal-right {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.modal-right h2 { font-size: 1.8rem; letter-spacing: 0.5px; }
+.modal-right h4 { color: rgba(255, 255, 255, 0.8); font-style: italic; font-weight: normal; }
+.modal-right h3 { font-size: 1.6rem; font-weight: bold; margin-top: 5px; }
+
+.modal-description {
+    background-color: rgba(255, 255, 255, 0.15);
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 15px;
+    flex-grow: 1;
+}
+.modal-description h4 { font-weight: bold; margin-bottom: 5px; font-style: normal; color: white;}
+.modal-description p { font-size: 0.95rem; line-height: 1.5; color: rgba(255, 255, 255, 0.9); }
+
+/* Customizes the look of the action buttons */
+button.primary {
+    background-color: #222222;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+button.primary:hover {
+    background-color: #444444;
+    transform: translateY(-1px);
+}
+
+button.primary:active {
+    transform: translateY(0);
+}
+
+/* Responsive Google Maps container constraints */
+.map-container {
+    width: 100%;
+    margin-top: 15px;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.map-container iframe {
+    display: block;
+    width: 100%;
+}
+
+/* Form Input Styling Layout Blocks */
+.FormCard {
+    text-align: left; /* Overrides center text alignments */
+}
+
+.form-group {
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.form-group label {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+.form-group input, 
+.form-group select, 
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 6px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.95rem;
+    outline: none;
+    background: white;
+    color: #333;
+}
+
+.form-group input:focus, 
+.form-group select:focus, 
+.form-group textarea:focus {
+    border-color: #222;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Hidden Error Messages */
+.error-msg {
+    color: #b22222; /* Crimson red warning color tint */
+    font-size: 0.8rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: none;
+    margin-top: 2px;
+}
+
+/* Active Class to toggle validation visual highlights */
+.form-group.invalid .error-msg {
+    display: block;
+}
+
+.form-group.invalid input,
+.form-group.invalid select,
+.form-group.invalid textarea {
+    border: 2px solid #b22222 !important;
+}
+
+.primary2{
+     margin-top: 15px; 
+     width: 100%; 
+     padding: 14px;
+}
+
+button.primary2 {
+    background-color: #222222;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+button.primary2:hover {
+    background-color: #444444;
+    transform: translateY(-1px);
+}
+
+button.primary2:active {
+    transform: translateY(0);
+}
+
+/* Responsive break configurations for mobile screens */
+@media (max-width: 650px) {
+    .modal-body { flex-direction: column; gap: 15px; }
+    .modal-left img { height: 260px; }
+    .modal-content { padding: 20px; overflow-y: auto; max-height: 90vh; }
+}
+
+
+.EnquiryContainer {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 0 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.EnquiryCard {
+    background-color: rgb(253, 163, 178); /* Matches the pink theme */
+    padding: 40px 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(253, 163, 178, 0.25);
+    color: white;
+}
+
+.EnquiryCard h2 {
+    font-size: 1.6rem;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.EnquirySubtitle {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 0.95rem;
+    margin-bottom: 25px;
+    line-height: 1.4;
+}
+
+.enquiry-group {
+    margin-bottom: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.enquiry-group label {
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+
+.enquiry-group input,
+.enquiry-group select,
+.enquiry-group textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 6px;
+    background: white;
+    color: #333;
+    font-size: 0.95rem;
+    outline: none;
+}
+
+.enquiry-group.invalid input,
+.enquiry-group.invalid select,
+.enquiry-group.invalid textarea {
+    border: 2px solid #b22222 !important; /* Crimson Warning highlight boundary mapping */
+}
+
+.enquiry-error {
+    color: #b22222;
+    font-size: 0.8rem;
+    font-weight: bold;
+    display: none;
+}
+
+.enquiry-group.invalid .enquiry-error {
+    display: block;
+}
+
+/* Live Result Feedback Panels */
+.feedback-response-box {
+    margin-top: 30px;
+    background-color: rgba(255, 255, 255, 0.15);
+    border-radius: 8px;
+    padding: 20px;
+    border-left: 5px solid #222;
+    display: none;
+}
+
+.feedback-response-box.active {
+    display: block;
+}
+
+.feedback-response-box h3 {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+}
+
+.feedback-response-box p {
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.95);
+    margin-bottom: 12px;
+}
+
+.feedback-cost-badge {
+    display: inline-block;
+    background-color: #222222;
+    color: white;
+    padding: 6px 14px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+/* Banner Layout Container */
+.PromoBannerSection {
+    width: 100%;
+    max-width: 100%;
+    margin: 40px 0; /* Creates clean vertical space between the items and form */
+    padding: 0;
+    overflow: hidden; /* cuts off any image spillover */
+    box-sizing: border-box;
+}
+
+/* Responsive Image Controls */
+.PromoBannerImage {
+    width: 100%;
+    height: 350px;
+    object-fit: cover; /* Centers and crops the image perfectly on all screens */
+    object-position: center; /* Keeps the middle of the graphic focused */
+    display: block;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+    .PromoBannerImage {
+        height: 200px; /* Makes the banner shorter on mobile screens */
+    }
+}
+
+

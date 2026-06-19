@@ -3,16 +3,22 @@
 <head> 
     <meta charset="UTF-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <title>DreamLand Vintage | Contact Us</title> 
-    <link rel="stylesheet" href="../Css/style.css"> 
+    <!--improved title, it includes core and relevant keywords-->
+    <title>DreamLand Vintage | Online Thrift & Vintage Clothing South Africa</title> 
+    <!-- added a new description, to hook users and search engines-->
+    <meta name="description" content="Shop the best curated vintage clothing in South Africa. From 90s graphic shirts and classic denim jeans to retro winter jackets. Free local shipping options available!">
+    <link rel="stylesheet" href="../Css/style.css">
+    <script src="../Js/script.js" defer></script> 
 </head> 
 <body> 
     <!--Main Navigation Page--> 
     <header> 
         <nav class="mainnav"> 
             <header class="mainheader"> 
-                <img class="Logo" src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\306083037_415975557301657_4557461662347383581_n.jpg"> 
-                <!--Grouped Links--> 
+      <a href="Index.html">
+        <img class="Logo" src="../Images/306083037_415975557301657_4557461662347383581_n.jpg" alt="DreamLand Vintage Logo"> 
+      </a>
+            <!--Grouped Links--> 
                 <div class="PageNavigations"> 
                     <a class="Home" href="Index.html">Home</a> 
                     <a class="Contact" href="contact.html">Contact Us</a> 
@@ -20,7 +26,7 @@
                 </div> 
                 <!--Cart Trigger--> 
                 <a class="Cart" href="#cart-popup"> 
-                    <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\shopping-cart-set-four (1).png"> 
+                    <img src="../Images/shopping-cart-set-four (1).png"> 
                 </a> 
             </header> 
         </nav> 
@@ -28,7 +34,7 @@
 
     <!--Page Info--> 
     <header class="subheader"> 
-        <h1>We'd Love to hear from you!!</h1> 
+        <h2>We'd Love to hear from you!!</h2> 
     </header> 
 
     <!--Contact Options--> 
@@ -48,13 +54,13 @@
             <h3>FOLLOW AND MESSAGE US ON SOCIALS!</h3> 
             <div class="contacticons"> 
                 <a href="https://www.instagram.com/dreamland_vintage/" target="_blank"> 
-                    <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\instagram-icon.png"> 
+                    <img src="../Images/instagram-icon.png"> 
                 </a> 
                 <a href="whatsapplink" target="_blank"> 
-                    <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\209063554_38c0619b-5c73-4ffb-9178-477245f55b82 (1).png"> 
+                    <img src="../Images/209063554_38c0619b-5c73-4ffb-9178-477245f55b82 (1).png"> 
                 </a> 
                 <a href="https://www.facebook.com/dreamlandvintageclothing/photos" target="_blank"> 
-                    <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\150897972_10464408-removebg-preview.png"> 
+                    <img src="../Images/150897972_10464408-removebg-preview.png"> 
                 </a> 
             </div> 
         </div> 
@@ -62,91 +68,156 @@
         <div class="ContactCard"> 
             <h3>VISIT US IN STORE!</h3> 
             <p>7 Beckham St, Gardens, Cape Town, 8001</p> 
+
+            <!--Google Maps Embedded-->
+            <div class="map-container">
+                
+                <iframe 
+                    src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d413.81174857286817!2d18.41242742050712!3d-33.92842065356806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x1dcc670b8e9ccec3%3A0xb57a181138bdbc0e!2sDreamland%20Vintage%2C%207%20Beckham%20St%2C%20Gardens%2C%20Cape%20Town%2C%208001!3m2!1d-33.9283917!2d18.4125402!5e0!3m2!1sen!2sza!4v1781725061517!5m2!1sen!2sza"
+                    height="250" 
+                    style="border:0; border-radius: 8px;" 
+                    allowfullscreen="" 
+                    loading="lazy" 
+                    referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
+            </div>
         </div> 
     </div> 
+            <!--Option 5: Contact Form-->
+            <section class="EnquiryContainer">
+        <div class="ContactCard FormCard"> 
+            <h3>SEND US A MESSAGE!</h3> 
+            <form id="contactForm" novalidate>
+                <!-- Full Name Input -->
+                <div class="form-group">
+                    <label for="clientName">Your Name:</label>
+                    <input type="text" id="clientName" placeholder="Enter your full name" minlength="2" maxlength="50" required pattern="^[a-zA-Z\s]+$">
+                    <span class="error-msg" id="nameError">Name is required.</span>
+                </div>
 
-    <!--Cart Side Popup--> 
-    <div id="cart-popup" class="cartoverlay"> 
-        <div class="cartpanel"> 
-            <!--Cart header--> 
-            <header class="cartheader"> 
-                <nav class="cartnav"> 
-                    <a href="#" class="closecart">&times;</a> 
-                    <h1>YOU'RE ONE STEP CLOSER!</h1> 
-                </nav> 
-            </header> 
-            <!--Content within Cart--> 
-            <div class="CartContentcontainer"> 
-                <div class="CartContent"> 
-                    <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\pesce-huang-nC4-PXzKZcI-unsplash.jpg" alt="Jeans"> 
-                    <div class="itemdetails"> 
-                        <h3>Bootcut Denim Jeans</h3> 
-                        <p><em>Womens</em> | <em>Size: 30 W; 32L</em></p> 
-                        <span class="price">R2000</span> 
-                    </div> 
-                    <button class="remove">&times;</button> 
-                </div> 
-                <div class="CartContent"> 
-                    <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\rodrigo-rodrigues-wolf-r-t-WSvhSYUUW1s-unsplash.jpg" alt="Shorts"> 
-                    <div class="itemdetails"> 
-                        <h3>Diesel Denim Shorts</h3> 
-                        <p><em>Mens</em> | <em>Size: 30 W; 30 L</em></p> 
-                        <span class="price">R800</span> 
-                    </div> 
-                    <button class="remove">&times;</button> 
-                </div> 
-                <div class="CartContent"> 
-                    <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\jakob-owens-WzncgWs3RJ4-unsplash.jpg" alt="Sandals"> 
-                    <div class="itemdetails"> 
-                        <h3>Beige Leather Sandals</h3> 
-                        <p><em>Mens</em> | <em>Size: UK 10</em></p> 
-                        <span class="price">R1500</span> 
-                    </div> 
-                    <button class="remove">&times;</button> 
-                </div> 
-            </div> 
-            <!--Cart empty and checkout options with total price--> 
-            <div class="CartBottom"> 
-                <div class="totalrow"> 
-                    <h3>Cart Total:</h3> 
-                    <h3>R4300</h3> 
-                </div> 
-                <div class="cartactions"> 
-                    <button class="secondary">Empty Cart</button> 
-                    <button class="primary">Checkout</button> 
-                </div> 
-            </div> 
-        </div> 
-    </div> 
+                <!-- Email Address Input -->
+                <div class="form-group">
+                    <label for="clientEmail">Your Email:</label>
+                    <input type="email" id="clientEmail" placeholder="name@example.com" required>
+                    <span class="error-msg" id="emailError">Please enter a valid email address.</span>
+                </div>
 
-    <footer class="mainfooter2"> 
-        <!--Brand Info--> 
-        <div class="brandinfo"> 
-            <h3>DreamLand Vintage</h3> 
-            <p>Contact us at:<br>
-               <a href="mailto:DreamLandVintage@gmail.com">DreamLandVintage@gmail.com</a>
-            </p> 
-        </div> 
-        <!--Socials--> 
-        <div class="socials"> 
-            <h4>Get in touch with us on socials:</h4> 
-            <div class="icons"> 
-                <a href="https://www.instagram.com/dreamland_vintage/" target="_blank"> 
-                    <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\instagram-icon.png"> 
-                </a> 
-                <a href="whatsapplink" target="_blank"> 
-                    <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\209063554_38c0619b-5c73-4ffb-9178-477245f55b82 (1).png"> 
-                </a> 
-                <a href="https://www.facebook.com/dreamlandvintageclothing/photos" target="_blank"> 
-                    <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\150897972_10464408-removebg-preview.png"> 
-                </a> 
-            </div> 
-        </div> 
-        <!--Payment--> 
-        <div class="payment"> 
-            <h4>We Accept:</h4> 
-            <img class="paymenticon" src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\vecteezy_visa-logo-png-visa-icon-transparent-png_20975576.png" alt="Visa"> 
-        </div> 
-    </footer> 
-</body> 
+                <!-- Message Category Dropdown Selector -->
+                <div class="form-group">
+                    <label for="messageType">Reason for Contact:</label>
+                    <select id="messageType" required>
+                        <option value="">-- Select Message Type --</option>
+                        <option value="General Inquiry">General Inquiry</option>
+                        <option value="Order Issue">Order Issue</option>
+                        <option value="Stock Request">Stock Request</option>
+                        <option value="Feedback">Feedback</option>
+                    </select>
+                    <span class="error-msg" id="typeError">Please select a reason.</span>
+                </div>
+
+                <!-- Full Message body text area -->
+                <div class="form-group">
+                    <label for="clientMessage">Your Message:</label>
+                    <textarea id="clientMessage" rows="5" placeholder="Type your message here..." required></textarea>
+                    <span class="error-msg" id="messageError">Message context cannot be empty.</span>
+                </div>
+
+                <!-- Submit Button -->
+                <button type="submit" class="primary" style="width: 100%; padding: 12px; margin-top: 10px;">Send Email</button>
+            </form>
+        </div>
+            </section>
+
+
+    <!-- In-Depth Product Modal Popup with Add to Cart Button -->
+<div id="productModal" class="modal-overlay">
+    <div class="modal-content">
+        <span class="close-modal">&times;</span>
+        <div class="modal-body">
+            <div class="modal-left">
+                <img id="modalImg" src="" alt="Product Image">
+            </div>
+            <div class="modal-right">
+                <h2 id="modalTitle">Product Title</h2>
+                <h4 id="modalCategory">Category</h4>
+                <p id="modalSize">Size: </p>
+                <h3 id="modalPrice">Price</h3>
+                
+                <div class="modal-description">
+                    <h4>Product Details</h4>
+                    <p id="modalDetails">More in-depth descriptions go here.</p>
+                </div>
+                
+                <!-- Add To Cart Action Trigger Button -->
+                <button class="primary2" id="modalAddToCartBtn">Add to Cart</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <!--Cart Side Popup-->
+  <div id="cart-popup" class="cartoverlay">
+    <div class="cartpanel">
+  <!--Cart header-->
+      <header class="cartheader">
+        <nav class="cartnav">
+          <a href="#" class="closecart">&times;</a>
+          <h1>YOU'RE ONE STEP CLOSER!</h1>
+        </nav>
+      </header>
+<!--Content within Cart-->
+      <div class="CartContentcontainer">
+        <!--placeholder items have been removed from here -->
+      </div>
+
+<!--Cart empty and checkout options with total price-->
+      <div class="CartBottom">
+        <div class="totalrow">
+          <h3>Cart Total:</h3>
+          <h3>R0</h3>
+        </div>
+        <div class="cartactions">
+          <button class="secondary">Empty Cart</button>
+          <button class="primary">Checkout</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+<footer class="mainfooter">
+  <!--Brand Info-->
+  <div class="brandinfo">
+  <h3>DreamLand Vintage</h3>
+  <p>Contact us at:<br><a href="DreamLandVintage@gmail.com"><p>DreamLandVintage@gmail.com</p></a>
+  </div>
+  <!--Socials--> 
+  <div class="socials">
+  <h4>Get in touch with us on socials:<h4>
+  <div class="icons">
+  <a href="https://www.instagram.com/dreamland_vintage/" target="_blank">
+        <img src="../Images/instagram-icon.png">
+        </a>
+        <a href="whatsapplink" target="_blank">
+        <img src= "../Images/209063554_38c0619b-5c73-4ffb-9178-477245f55b82 (1).png">
+        </a>
+        <a href="https://www.facebook.com/dreamlandvintageclothing/photos" target="_blank">
+        <img src="../Images/150897972_10464408-removebg-preview.png">
+        </a>
+    </div>
+  </div>
+  <!--Payment-->
+  <div class="payment">
+  <h4>We Accept:</h4>
+    <img class="paymenticon" src="../Images/vecteezy_visa-logo-png-visa-icon-transparent-png_20975576.png" alt="Visa">
+  </div>
+</footer>
+
+
+
+
+
+
+</body>
 </html>
+

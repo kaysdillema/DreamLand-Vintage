@@ -1,19 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DreamLand Vintage | Jeans</title>
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <!--improved title, it includes core and relevant keywords-->
+    <title>DreamLand Vintage | Online Thrift & Vintage Clothing South Africa</title> 
+    <!-- added a new description, to hook users and search engines-->
+    <meta name="description" content="Shop the best curated vintage clothing in South Africa. From 90s graphic shirts and classic denim jeans to retro winter jackets. Free local shipping options available!">
     <link rel="stylesheet" href="../Css/style.css">
+    <script src="../Js/script.js" defer></script> 
 </head>
 <body>
 
     <header>
         <!--Main Navigation Page-->
         <nav class="mainnav">
-          <header class="mainheader">
-            <img class="Logo" src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\306083037_415975557301657_4557461662347383581_n.jpg">
-            <!--Grouped Links-->
+          <header class="mainheader"> 
+      <a href="Index.html">
+        <img class="Logo" src="../Images/306083037_415975557301657_4557461662347383581_n.jpg" alt="DreamLand Vintage Logo"> 
+      </a>
+          <!--Grouped Links-->
             <div class="PageNavigations">
             <a class="Home" href = "Index.html">Home</a>
             <a class= "Contact" href = "contact.html">Contact Us</a>
@@ -22,7 +28,7 @@
             
             <!--Cart Trigger--> 
         <a class="Cart" href="#cart-popup"> 
-          <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\shopping-cart-set-four (1).png"> 
+          <img src="../Images/shopping-cart-set-four (1).png" alt="shopping cart"> 
         </a> 
       </header> 
     </nav> 
@@ -33,21 +39,37 @@
             <header class="subheader2">
             <!--Item Navigations-->
             <div class="ItemNavigations">
-            <button class="MenOption">Mens</button>
-            <button class="WomenOption">Womens</button>
-            <button class="SizeOption">Size</button>
-            <button class="PriceOption">Price</button>
-            </div>
+            <button class="MenOption" data-filter="Mens">Mens</button>
+            <button class="WomenOption" data-filter="Womens">Womens</button>
+            
+            <!--Size Selector-->
+            <select class="SizeOption" id="sizeFilter">
+            <option value="all">All</option>
+            <option value="26">26 W</option>
+            <option value="28">28 W</option>   
+            <option value="30">30 W</option>            
+            <option value="32">32 W</option>      
+            <option value="34">34 W</option>      
+            </select>
+
+            <!--Price Sorting--> 
+                <select class="PriceOption" id="priceSort"> 
+                    <option value="default">Featured</option> 
+                    <option value="low-high">Low to High</option> 
+                    <option value="high-low">High to Low</option> 
+                </select> 
+          </div>
           </header>
         </nav>
+        
 
     <!--Catalog items-->
-    <div class="catalogitems">
+    <div class="catalogitems" id="productGrid">
         <!--Item 1-->
-        <div class="ItemCard">
-        <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\tuananh-blue-9yoXrG6Er_g-unsplash.jpg" width="300" height="380">
+        <div class="ItemCard" data-category="Mens" data-size="32" data-price="1500">
+        <img src="../Images/tuananh-blue-9yoXrG6Er_g-unsplash.jpg" alt="Vintage Cuffed Denim Jeans">
         <div class="ItemInfo">
-        <h3>Vintage Denim Jeans</h3>
+        <h3>Vintage Cuffed Denim Jeans</h3>
         <p>Mens</p>
         <p>Size: 32 W; 40 L</p>
         <span class="price">R1500</span>
@@ -55,10 +77,10 @@
         </div>
 
         <!--Item 2-->
-        <div class="ItemCard">
-        <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\pesce-huang-nC4-PXzKZcI-unsplash.jpg" width="300" height="380">
+        <div class="ItemCard" data-category="Womens" data-size="30" data-price="2000">
+        <img src="../Images/pesce-huang-nC4-PXzKZcI-unsplash.jpg" alt="Classic Bootcut Denim Jeans">
         <div class="ItemInfo">
-        <h3>Bootcut Denim Jeans</h3>
+        <h3>Classic Bootcut Denim Jeans</h3>
         <p>Womens</p>
         <p>Size: 30 W; 32L</p>
         <span class="price">R2000</span>
@@ -66,10 +88,10 @@
         </div>
 
         <!--Item 3-->
-        <div class="ItemCard">
-        <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\tuananh-blue-h6PKsr0wDH4-unsplash.jpg" width="300" height="380">
+        <div class="ItemCard" data-category="Womens" data-size="28" data-price="3200">
+        <img src="../Images/tuananh-blue-h6PKsr0wDH4-unsplash.jpg" alt="2000s Low Rise Black Denim Jeans">
         <div class="ItemInfo">
-        <h3>Low Rise Black Denim Jeans</h3>
+        <h3>2000s Low Rise Black Denim Jeans</h3>
         <p>Womens</p>
         <p>Size: 28 W; 32L</p>
         <span class="price">R3200</span>
@@ -77,10 +99,10 @@
         </div>
 
         <!--Item 4-->
-        <div class="ItemCard">
-        <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\rodrigo-rodrigues-wolf-r-t-WSvhSYUUW1s-unsplash.jpg" width="300" height="380">
+        <div class="ItemCard" data-category="Mens" data-size="30" data-price="800">
+        <img src="../Images/rodrigo-rodrigues-wolf-r-t-WSvhSYUUW1s-unsplash.jpg" alt="Throwback Diesel Denim Shorts">
         <div class="ItemInfo">
-        <h3>Diesel Denim Shorts</h3>
+        <h3>Throwback Diesel Denim Shorts</h3>
         <p>Mens</p>
         <p>Size: 30 W; 30 L</p>
         <span class="price">R800</span>
@@ -88,8 +110,8 @@
         </div>
 
         <!--Item 5-->
-        <div class="ItemCard">
-        <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\matthew-moloney-YeGao3uk8kI-unsplash.jpg" width="300" height="380">
+        <div class="ItemCard" data-category="Womens" data-size="28" data-price="2000">
+        <img src="../Images/matthew-moloney-YeGao3uk8kI-unsplash.jpg" alt="Black slim fit Pants">
         <div class="ItemInfo">
         <h3>Black slim fit Pants</h3>
         <p>Womens</p>
@@ -97,7 +119,77 @@
         <span class="price">R2000</span>
         </div>
         </div>
+
+        <!--Item 6-->
+        <div class="ItemCard" data-category="Womens" data-size="32" data-price="1500">
+        <img src="../Images/pants.jpg" alt="Simple Classic Black Joggers">
+        <div class="ItemInfo">
+        <h3>Simple Classic Black Joggers</h3>
+        <p>Womens</p>
+        <p>Size: 32 W; 32L</p>
+        <span class="price">R1500</span>
+        </div>
+        </div>
+
+        <!--Item 7-->
+        <div class="ItemCard" data-category="Womens" data-size="30" data-price="1800">
+        <img src="../Images/clothes-light-fashion-clothing-pants.jpg" alt="Low Rise 80s Denim Daisy Dukes">
+        <div class="ItemInfo">
+        <h3>Low Rise 80s Denim Daisy Dukes</h3>
+        <p>Womens</p>
+        <p>Size: 30 W; 32L</p>
+        <span class="price">R1800</span>
+        </div>
+        </div>
+
+        <!--Item 8-->
+        <div class="ItemCard" data-category="Mens" data-size="30" data-price="800">
+        <img src="../Images/casual-men-short-pants.jpg" alt="Casual 80s Short Shorts">
+        <div class="ItemInfo">
+        <h3>Casual 80s Short Shorts</h3>
+        <p>Mens</p>
+        <p>Size: 30 W; 32 L</p>
+        <span class="price">R800</span>
+        </div>
+        </div>
+
+        <!--Item 9-->
+        <div class="ItemCard" data-category="Womens" data-size="30" data-price="2500">
+        <img src="../Images/hand-holding-light-brown-beige-pants.jpg" alt="Biege slim fit Pants">
+        <div class="ItemInfo">
+        <h3>Biege slim fit Pants</h3>
+        <p>Womens</p>
+        <p>Size: 30 W; 28L</p>
+        <span class="price">R2500</span>
+        </div>
+        </div>
     </div>
+
+    <!-- In-Depth Product Modal Popup with Add to Cart Button -->
+<div id="productModal" class="modal-overlay">
+    <div class="modal-content">
+        <span class="close-modal">&times;</span>
+        <div class="modal-body">
+            <div class="modal-left">
+                <img id="modalImg" src="" alt="Product Image">
+            </div>
+            <div class="modal-right">
+                <h2 id="modalTitle">Product Title</h2>
+                <h4 id="modalCategory">Category</h4>
+                <p id="modalSize">Size: </p>
+                <h3 id="modalPrice">Price</h3>
+                
+                <div class="modal-description">
+                    <h4>Product Details</h4>
+                    <p id="modalDetails">More in-depth descriptions go here.</p>
+                </div>
+                
+                <!-- Add To Cart Action Trigger Button -->
+                <button class="primary2" id="modalAddToCartBtn">Add to Cart</button>
+            </div>
+        </div>
+    </div>
+</div>
 
     <!--Cart Side Popup-->
   <div id="cart-popup" class="cartoverlay">
@@ -109,45 +201,17 @@
           <h1>YOU'RE ONE STEP CLOSER!</h1>
         </nav>
       </header>
+
 <!--Content within Cart-->
       <div class="CartContentcontainer">
-        
-        <div class="CartContent">
-          <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\pesce-huang-nC4-PXzKZcI-unsplash.jpg" alt="Jeans">
-          <div class="itemdetails">
-            <h3>Bootcut Denim Jeans</h3>
-            <p><em>Womens</em> | <em>Size: 30 W; 32L</em></p>
-            <span class="price">R2000</span>
-          </div>
-          <button class="remove">&times;</button>
-        </div>
-
-        <div class="CartContent">
-          <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\rodrigo-rodrigues-wolf-r-t-WSvhSYUUW1s-unsplash.jpg" alt="Shorts">
-          <div class="itemdetails">
-            <h3>Diesel Denim Shorts</h3>
-            <p><em>Mens</em> | <em>Size: 30 W; 30 L</em></p>
-            <span class="price">R800</span>
-          </div>
-          <button class="remove">&times;</button>
-        </div>
-
-        <div class="CartContent">
-          <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\jakob-owens-WzncgWs3RJ4-unsplash.jpg" alt="Sandals">
-          <div class="itemdetails">
-            <h3>Beige Leather Sandals</h3>
-            <p><em>Mens</em> | <em>Size: UK 10</em></p>
-            <span class="price">R1500</span>
-          </div>
-          <button class="remove">&times;</button>
-        </div>
-
+        <!--placeholder items have been removed from here -->
       </div>
+
 <!--Cart empty and checkout options with total price-->
       <div class="CartBottom">
         <div class="totalrow">
           <h3>Cart Total:</h3>
-          <h3>R4300</h3>
+          <h3>R0</h3>
         </div>
         <div class="cartactions">
           <button class="secondary">Empty Cart</button>
@@ -169,22 +233,24 @@
   <h4>Get in touch with us on socials:<h4>
   <div class="icons">
   <a href="https://www.instagram.com/dreamland_vintage/" target="_blank">
-        <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\instagram-icon.png">
+        <img src="../Images/instagram-icon.png">
         </a>
         <a href="whatsapplink" target="_blank">
-        <img src= "C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\209063554_38c0619b-5c73-4ffb-9178-477245f55b82 (1).png">
+        <img src= "../Images/209063554_38c0619b-5c73-4ffb-9178-477245f55b82 (1).png">
         </a>
         <a href="https://www.facebook.com/dreamlandvintageclothing/photos" target="_blank">
-        <img src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\150897972_10464408-removebg-preview.png">
+        <img src="../Images/150897972_10464408-removebg-preview.png">
         </a>
     </div>
   </div>
   <!--Payment-->
   <div class="payment">
   <h4>We Accept:</h4>
-    <img class="paymenticon" src="C:\Users\donny\OneDrive\Desktop\A1 DV website\Images\vecteezy_visa-logo-png-visa-icon-transparent-png_20975576.png" alt="Visa">
+    <img class="paymenticon" src="../Images/vecteezy_visa-logo-png-visa-icon-transparent-png_20975576.png" alt="Visa">
   </div>
 </footer>
+
+
 
 
 

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://sitemaps.org">
+
+  <!-- 1. HOMEPAGE -->
+  <url>
+    <loc>https://dreamlandvintage.co.za</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 2. SHIRTS CATEGORY -->
+  <url>
+    <loc>https://dreamlandvintage.co.za</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 3. JEANS CATEGORY -->
+  <url>
+    <loc>https://dreamlandvintage.co.za</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 4. SHOES CATEGORY -->
+  <url>
+    <loc>https://dreamlandvintage.co.za</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 5. CONTACT US PAGE -->
+  <url>
+    <loc>https://dreamlandvintage.co.za</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- 6. REVIEWS PAGE -->
+  <url>
+    <loc>https://dreamlandvintage.co.za</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>

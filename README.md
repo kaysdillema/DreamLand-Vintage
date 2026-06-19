@@ -109,6 +109,34 @@ W3Schools. 2019. CSS fonts. [online] Available at: https://www.w3schools.com/css
 - 05/28 added this changelog section in readme.md to document my changes
 - implemented flex box and align-items to ensure proper representation of the website.
 
+  <strong>Phase 2 & 3 </strong>
+- 06/19 added a JS folder with javascript file in it
+- 06/19 added data-filter to Item Navigation buttons
+- 06/19 added data-category to catalog items
+- 06/19 Changed the normal flat buttons for the size and price filter into interactive drop down menus
+- 06/19 Added .Item.Card.hide at the very bottom of the CSS file to support the JS filter
+- 06/19 updated catalog grid with new data attributes
+- 06/19 added a pop up screen once an item is clicked for a more indepth description and for the option to add to cart
+- 06/19 removed placeholder items from cartcontentcontainer in order to have cart be empty
+- 06/19 changed place holder price from 4300 to 0
+- 06/19 added and embeeded a google map location in the contact page
+- 06/19 im plemented a modal
+- 06/19 added a storage system to load cart items regardless of a refreshed page
+- 06/19 added a form that can be filled out in order to get in contact with the team
+- 06/19 changed the grid layout of the contact page so its more fluid and responsive and allowing for the new form
+- 06/19 updated review filter buttons to now operate and function
+- 06/19 i have also added a "All reviews" button in the reviews page
+- 06/19 added a banner in the index page
+- 06/19 changed the subheader to an h2 and changed the title
+- 06/19 improved title, it includes core and relevant keywords
+- 06/19 added a new description, to hook users and search engines
+- 06/19 Updated logo to act as internal link leading to home page
+- 06/19 Updated the alts of images to more descriptive, keyword-rich alt attributes that match what users actually type             into Google Image Search
+- 06/19 changed image locations as per the feedback from part 2 of the POE
+- 06/19 changed image locations to improve website loading speed 
+- 06/19 Updated subheader to act as a link to the new added items
+
+
   <h1>Responsive Tests and Screenshots of different screen sizes</h1>
   <h3>The following images showcase the websites responsiveness on common devices</h3>
   <h1>Phones</h1>
